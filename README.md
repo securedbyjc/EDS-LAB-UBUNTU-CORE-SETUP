@@ -10,17 +10,18 @@ This lab serves as the baseline OS environment for:
 - Defensive engineering, logging, and threat detection exercises
 
 ## 📂 Project Structure
-<br EDS-CYBERSECURITY-LAB-CORE/ br/>
-├── scripts/ # Shell automation for provisioning 
-│ ├── setup_network.sh # Netplan static IP configuration 
-│ └── system_update.sh # Package updates & security patches 
-├── netplan/ # YAML snapshots of system network settings 
-├── snapshots/ # VM snapshot notes (manual or automated) 
-├── docs/ # Architecture, diagrams, future additions 
-├── logs/ # Runtime logs for troubleshooting 
-├── .gitignore 
-├── LICENSE 
-└── README.md
+
+`EDS-CYBERSECURITY-LAB-CORE/`<br>
+├── `scripts/` &nbsp;&nbsp;&nbsp;&nbsp;# Shell automation for provisioning <br>
+│ ├── `setup_network.sh` &nbsp;&nbsp;&nbsp;&nbsp;# Netplan static IP configuration <br>
+│ └── `system_update.sh` &nbsp;&nbsp;&nbsp;&nbsp;# Package updates & security patches <br>
+├── `netplan/` &nbsp;&nbsp;&nbsp;&nbsp;# YAML snapshots of system network settings <br>
+├── `snapshots/` &nbsp;&nbsp;&nbsp;&nbsp;# VM snapshot notes (manual or automated) <br>
+├── `docs/` &nbsp;&nbsp;&nbsp;&nbsp;# Architecture, diagrams, future additions <br>
+├── `logs/` &nbsp;&nbsp;&nbsp;&nbsp;# Runtime logs for troubleshooting <br>
+├── `.gitignore` <br>
+├── `LICENSE` <br>
+└── `README.md`
 
 
 ## 🚀 Getting Started

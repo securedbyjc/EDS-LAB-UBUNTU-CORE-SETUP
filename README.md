@@ -10,7 +10,7 @@ This lab serves as the baseline OS environment for:
 - Defensive engineering, logging, and threat detection exercises
 
 ## 📂 Project Structure
-EDS-CYBERSECURITY-LAB-CORE/ 
+<br EDS-CYBERSECURITY-LAB-CORE/ br/>
 ├── scripts/ # Shell automation for provisioning 
 │ ├── setup_network.sh # Netplan static IP configuration 
 │ └── system_update.sh # Package updates & security patches 

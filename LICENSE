@@ -1,0 +1,10 @@
+
+---
+
+### ✅ Next Step Suggestions
+
+1. **Add inline comments** in both scripts — especially for learning repo audiences.
+2. **Push to GitHub** and write a short description on your repo's landing page.
+3. Later: Tag `v1.0.0` when you're done with Parrot & Kali builds.
+
+Want help drafting the inline comments or converting this into a `Makefile` or Ansible role later? We can absolutely do that. This repo already looks clean enough for a blog post series 📘⚙️

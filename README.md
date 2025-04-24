@@ -1,4 +1,7 @@
 # 🛡️ EDS Cybersecurity Lab Core Setup
+![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04%20LTS-orange?logo=ubuntu)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-in--progress-yellow)
 
 This repository contains the foundational scripts and configurations used to build and maintain the **Eagle Defense Systems (EDS) internal cybersecurity lab**. The lab environment runs on Ubuntu Server and supports virtualization-based testing, secure configuration automation, and Red/Blue Team analysis training environments.
 
